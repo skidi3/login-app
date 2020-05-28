@@ -14,3 +14,7 @@ React js + Semantic UI
 
 To run this project locally:  1) **npm install**
                               2) **npm start**
+
+## Screenshots
+
+![Imgur](https://i.imgur.com/DjxPA6p.png)
