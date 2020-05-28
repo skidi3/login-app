@@ -12,8 +12,10 @@ React js + Semantic UI
 - [ ] On submission -> "Hello World" Will be displayed on the next page using React-router. (In Progress) 
 - [X] Mobile friendly/Responsive code 
 
-To run this project locally:  1) **npm install**
-                              2) **npm start**
+## To run this project locally:  
+
+1) **npm install**
+2) **npm start**
 
 ## Screenshots
 
