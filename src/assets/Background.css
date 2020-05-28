@@ -1,0 +1,17 @@
+.background {
+  float: left;
+  width: 60%;
+  height: 100vh;
+  background-image: url("./image.png");
+  background-size: cover;
+  background-attachment: center center fixed;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 600px) {
+  .background {
+    width: 0%;
+    background-image: "";
+    background-size: cover;
+  }
+}
