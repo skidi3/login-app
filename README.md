@@ -1,4 +1,4 @@
-# Solution for Excercise-1
+# Solution for Exercise-1
 
 ## Tech Stack
 
