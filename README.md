@@ -1,10 +1,10 @@
-#Solution for Excercise-1
+# Solution for Excercise-1
 
-##Tech Stack
+## ech Stack
 
 React js + Semantic UI 
 
-##Tasks
+## Tasks
 
 - [X] Components 
 - [X] Background Image 
