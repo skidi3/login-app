@@ -1,6 +1,6 @@
 # Solution for Excercise-1
 
-## ech Stack
+## Tech Stack
 
 React js + Semantic UI 
 
